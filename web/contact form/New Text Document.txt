@@ -1,0 +1,25 @@
+<h2>Core Products</h2>
+						<span> </span>
+<!--- services-grids --->
+					<div class="services-grids text-center">
+						<div class="col-md-12">
+							<div class="service-grid wow bounceIn" data-wow-delay="0.4s">
+								<span class="service-icon1"> </span>
+								<h3><a href="#">One Shop Card</a></h3>
+								<p>One Solution To Everything. Get Discounts Anytime Anywhere Only With One Stop Card</p>
+								<br>
+								<br>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="service-grid wow bounceIn" data-wow-delay="0.4s">
+								<span class="service-icon2"> </span>
+								<h3><a href="#">Android App</a></h3>
+								<p>Tap Your One Stop Card On Your Android Mobile And Get Exciting Offers Through Our App</p>
+							</div>
+						</div>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<!--- services-grids ---><br>
+					<br>
